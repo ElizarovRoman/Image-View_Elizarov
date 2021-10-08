@@ -1,0 +1,30 @@
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\bin\Debug\ImageView.exe.config
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\bin\Debug\ImageView.exe
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\bin\Debug\ImageView.pdb
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.csprojAssemblyReference.cache
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\MainWindow.g.cs
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\App.g.cs
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView_MarkupCompile.cache
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView_MarkupCompile.lref
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\MainWindow.baml
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.g.resources
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.Properties.Resources.resources
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.csproj.GenerateResource.cache
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.csproj.CoreCompileInputs.cache
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.exe
+C:\Users\apisi\Downloads\ImageView-master\ImageView-master\ImageView\obj\Debug\ImageView.pdb
+C:\Users\apisi\Downloads\Image view\ImageView\bin\Debug\ImageView.exe.config
+C:\Users\apisi\Downloads\Image view\ImageView\bin\Debug\ImageView.exe
+C:\Users\apisi\Downloads\Image view\ImageView\bin\Debug\ImageView.pdb
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.csprojAssemblyReference.cache
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\MainWindow.g.cs
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\App.g.cs
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView_MarkupCompile.cache
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView_MarkupCompile.lref
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\MainWindow.baml
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.g.resources
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.Properties.Resources.resources
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.csproj.GenerateResource.cache
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.csproj.CoreCompileInputs.cache
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.exe
+C:\Users\apisi\Downloads\Image view\ImageView\obj\Debug\ImageView.pdb
